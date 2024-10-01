@@ -1,0 +1,8 @@
+-attack
+    king: 1000;
+    queen: 900;
+    rock: 400;
+    knight: 400;
+    pawn: 100
+
+đếm số lượng cộng điểm - điểm đối thu
